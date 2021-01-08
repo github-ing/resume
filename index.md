@@ -1,37 +1,196 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-You can use the [editor on GitHub](https://github.com/github-ing/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <title>Resume</title>
+  </head>
+  <body>  
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Resume | First Last</title>
+  <meta name="robots" content="noindex, nofollow">
+  <style type="text/css" media="all">
+    html{
+      background-color:#EEE;
+      padding:0 1em;
+      }
+    body {
+      background-color:beige;
+      font-family:"Trebuchet MS", Helvetica, Arial;
+      padding:1em;
+      border:solid #AAA;
+      border-width:1px 3px 3px 1px;
+      margin:1em auto;
+      max-width: 50em;
+      }
+    #address{
+      height:5em;
+      width:47em;
+      margin:1em 0 1em 0;
+      }
+    #address div{
+      width:13em;
+      float:left;
+      padding:0 .5em 0 1.5em;
+      border-left:1px solid #CCC;
+      }
+    #address div#first{
+      border-left:none;
+      }
+    #address h3{
+      border-bottom: none;
+      margin-top: 0;
+      } 
+    .date {
+      float:right;
+      font-size:.8em;
+      margin-top:.4em;
+      text-align:right;
+      }
+    abbr, acronym{
+      border-bottom:1px dotted #333;
+      cursor:help;
+      } 
+    address{
+      font-style:italic;
+      color:#333;
+      font-size:.9em;
+      }
+      
+    
+    h1{
+      font-size:1.5em;
+      font-family: Helvetica, Verdana, Arial, sans-serif;
+      }
+    h2 {
+      clear:both;
+      font-size: 1.4em;
+      font-weight:bold;
+      margin-top:2em;
+      font-variant: small-caps;
+      padding-left:.25em;
+      background-color:#EEE;
+      border-bottom: 1px solid #999;
+      letter-spacing: .06em;
+      }
+    h3 {margin: 1em 0 0 0;}
+  </style>
+  <style type="text/css" media="print">
+    body {
+      background-color:#FFF;
+      border-width:0 0 0 0;
+      margin:0;
+      width:100%
+      }
+  </style>
+</head>
+<body cz-shortcut-listen="true">
 
-### Markdown
+ 
+  <div id="address">
+    <div id="first">
+       <h1>OH ING YEEN</h1>
+  <p>Writer, Photographer</p>
+  <p>Contact number</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            <a href="mailto:ingyeen@hotmail.com">ingyeen@hotmail.com</a><br>
+      <a href="">LinkedIn page</a>
+    </div>
+    <div>
+      <<h3><img src="photojournalist.jpg" width="400px"></h3>
+    </div>
+   
+  </div>
+  
+    <h2>Education and Qualifications</h2>
+  <ul>
+    <li>2004-2007 BA Mass Communication, CURTIN UNIVERSITY</li>
+    <li>Participated (the only person in the department who volunteered for training) in workshops for: media law, photography, and basic video editing.</li>
+      </ul>
+  
+  
+  <h2>Work Experience</h2>
+  <span class="date">2008-2020</span>
+  <h3>Job Title</h3>
+  <address>Company Name</address>
+  <ul> specialised in
+    <li>culture</li>
+    <li>environment</li>
+    <li>food</li>
+      </ul>
 
-```markdown
-Syntax highlighted code block
+      <h3>Internships</h3>
+  <address>Took the initiative to apply for several internships even though it is not required by my course</address>
+  <ul> 
+    <li>xxx</li>
+    <li>xxx</li>
+    <li>xxx</li>
+      </ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h2>Languages</h2>
+      <ul>
+    <li>I can read, write, and converse in English, Bahasa Malaysia, Mandarin/ Chinese; have translated articles from Bahasa Malaysia and Mandarin to English, English to Mandarin. 
+<a href="">past work</a>
+<a href="">past work</a>
+</li>
+    <li>I can also speak basic Cantonese, Hokkien, and Japanese, currently self-learning French and Korean.</li>
+      </ul>
 
-- Bulleted
-- List
+  <h2>Volunteer</h2>
+ <div class="row">
+  <div class="col-7">
+      <ul>
+    <li>2014: Employee Volunteer Programme: build eight homes for the orang asli community in Kampung Orang Asli, Bukit Jenuk, Dengkil.</li>
+      <li>2013: Ecoteer beach cleanup project: </li>
+     <a href="https://www.thestar.com.my/news/community/2012/10/12/the-star-readers-and-staff-clean-up-beaches-in-pulau-perhentian/">Link</a>
+  </ul>
+       </div>
+       <div class="col-5">
+        <img src="paint.jpg" class="img-fluid" width="100px">
+                </div>
+  </div>
 
-1. Numbered
-2. List
+  <h2>Awards</h2>
+  <ul>
+    <li>
+      2016: MPI Awards 2015 for best environment story: 
+ <a href="">Link</a>
+    </li>
+    <img src="">
+  </ul>
+  
+   <h2>Personal projects</h2>
+ <div class="row">
+  <div class="col-7">
+      <ul>
+    <p>2013-2018: Seoul Fashion Week</p>
+    <li>Provided coverage, including own photography and videos</li>
+    <a href="">Link</a>
+     <a href="">Link</a>
+  </ul>
+       </div>
+        <div class="col-5">
+        <img src="sfw1.jpg" class="img-fluid" width="200px">
+                </div>
+ <li>Past work samples</li>
+    <div class="col-4">
+      <img src="https://cdn.star2.com/wp-content/uploads/2016/12/doc6sm4u9ai2ywmbjjg48x.jpg" class="img-fluid" width="100px">
+          </div>
+    <div class="col-4">
+      <img src="https://cdn.star2.com/wp-content/uploads/2016/12/doc6sm4u8by7uugud4t48x-e1482918211973.jpg" class="img-fluid" width="100px">
+          </div>
+    <div class="col-4">
+      <img src="https://cdn.star2.com/wp-content/uploads/2016/12/doc6sm4u9ai2ywmbjjg48x.jpg" class="img-fluid" width="100px">
+          </div>
 
-**Bold** and _Italic_ and `Code` text
+        </div>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/github-ing/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body></html>
